@@ -1,0 +1,23 @@
+{
+"name": "NoteNext",
+"short_name": "NoteNext",
+"description": "Esta es mi app de notas y tareas",
+"start_url": "/",
+"display": "standalone",
+"background_color": "#0a84ff",
+"theme_color": "#0a84ff",
+"icons": [
+ {
+ "src": "https://cdn-icons-png.flaticon.com/128/6711/6711178.png",
+ "sizes": "192x192",
+ "type": "image/png",
+ "purpose": "any"
+ },
+ {
+ "src": "https://cdn-icons-png.flaticon.com/128/6711/6711178.png",
+ "sizes": "512x512",
+ "type": "image/png",
+ "purpose": "maskable"
+ }
+]
+}
